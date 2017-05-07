@@ -1,2 +1,2 @@
 # hello-world
-Just a new repository
+This is first time I write a commit message
